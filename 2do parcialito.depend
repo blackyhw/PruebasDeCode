@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1718168769 source:c:\users\gamer\documents\2do parcialito\animal.c
+	"Animal.h"
+
+1718167493 c:\users\gamer\documents\2do parcialito\animal.h
+	"Especie.h"
+	<stdio.h>
+	<stdlib.h>
+
+1718084840 source:c:\users\gamer\documents\2do parcialito\especia.c
+	"Especie.h"
+
+1718167923 c:\users\gamer\documents\2do parcialito\especie.h
+	<stdio.h>
+	<stdlib.h>
+
+1718168965 source:c:\users\gamer\documents\2do parcialito\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Animal.h"
+	<conio.h>
+
+1718167923 source:c:\users\gamer\documents\2do parcialito\especie.c
+	"Especie.h"
+
